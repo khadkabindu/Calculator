@@ -8,6 +8,8 @@ function clearResult(){
 function appendNumber(value){
     const input = document.getElementById("display");
     input.value += value;
+
+    
 }
 
 function appendOperator(operator){
@@ -25,4 +27,6 @@ function calculateResult(){
     } catch (error) {
         resultInput.value = 'Error';
     }
-}
+} 
+
+

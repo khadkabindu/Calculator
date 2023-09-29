@@ -61,35 +61,10 @@ form input.cebutton{
     background-color: #4ba4f0;
 }
 
-form input.modulo{
+form input.operator{
     background-color: #ebb0e3;
 }
 
-form input.division{
-    background-color: #ebb0e3;
-
-} 
-
-form input.multiply{
-    background-color: #ebb0e3;
-
-} 
-
-form input.minus{
-    background-color: #ebb0e3;
-
-} 
-
-form input.add{
-    background-color: #ebb0e3;
-
-} 
-
-
-form input.equal{
-    background-color: #ebb0e3;
-
-} 
 
 hr{
     color: grey;
